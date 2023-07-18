@@ -107,30 +107,30 @@
 <div align='left'>
 
 <ul>
-
+	
 <li>
 <a href="https://www.linkedin.com/in/angel-eduardo-coyasos-tobar-2539a624b/" target="_blank">
-<span style="margin-bottom: 5px;">Linkeding</span>
+<span style="margin-bottom: 5px;">Linkeding: <b>Angel Coyasos</b></span>
 </a>
 </li>
-
-<br>
-
 <li>
 <a href="https://twitter.com/" target="_blank">
-<span  style="margin-bottom: 5px;">Tiwtter</span>
+<span  style="margin-bottom: 5px;">Tiwtter: <b>Angel Coyasos</b></span>
 </a>
 </li>
-
-<br>
-
 <li>
 <a href="https://github.com/Angel-Coyasos?tab=repositories" target="_blank">
-<span  style="margin-bottom: 5px;">Portafolio</span>
+<span  style="margin-bottom: 5px;">Portafolio: <b>Angel Coyasos</b></span>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/" target="_blank">
+<span  style="margin-bottom: 5px;">Instagram: <b>Angel Coyasos</b></span>
 </a>
 </li>
 	
 </ul>
+
 </div>
 
 <br>
