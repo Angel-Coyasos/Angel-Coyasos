@@ -90,23 +90,21 @@ Take a good walk through my portfolio [my portafolio](https://github.com/Angel-C
 <ul>
 	
 <li>
+Linkeding: 
 <a href="https://www.linkedin.com/in/angel-eduardo-coyasos-tobar-2539a624b/" target="_blank" style="color: black;>
-<span style="margin-bottom: 5px;">Linkeding: <b>Angel Coyasos</b></span>
+<b style="margin-bottom: 5px;">Angel Coyasos</b>
 </a>
 </li>
 <li>
+Tiwtter:
 <a href="https://twitter.com/" target="_blank" style="color: black;>
-<span  style="margin-bottom: 5px; color: black;">Tiwtter: <b>Angel Coyasos</b></span>
+<b  style="margin-bottom: 5px; color: black;">Angel Coyasos</b>
 </a>
 </li>
 <li>
-<a href="https://github.com/Angel-Coyasos?tab=repositories" target="_blank" style="color: black;>
-<span  style="margin-bottom: 5px; color: black;">Portafolio: <b>Angel Coyasos</b></span>
-</a>
-</li>
-<li>
+Instagram:
 <a href="https://instagram.com/" target="_blank"  style="color: #000;">
-<span  style="margin-bottom: 5px; color: black;">Instagram: <b>Angel Coyasos</b></span>
+<span  style="margin-bottom: 5px; color: black;"><b>Angel Coyasos</b></span>
 </a>
 </li>
 	
