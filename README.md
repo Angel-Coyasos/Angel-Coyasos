@@ -16,11 +16,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- In love with web development.
+- I love building things.
+- I like to play sports.
+- I like to share with my family and friends.
+- I like to drive.
+- I like extreme sports
+
+Take a good walk through my portfolio [my resume](https://github.com/Angel-Coyasos/portafolio-adaptable-bootstrap)
 
 <br><br>
 
@@ -34,7 +37,7 @@
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Php](https://img.shields.io/badge/Php%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=black)
+  ![Php](https://img.shields.io/badge/Php%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
