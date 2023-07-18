@@ -88,22 +88,22 @@
 <ul>
 	
 <li>
-<a href="https://www.linkedin.com/in/angel-eduardo-coyasos-tobar-2539a624b/" target="_blank">
+<a href="https://www.linkedin.com/in/angel-eduardo-coyasos-tobar-2539a624b/" target="_blank" style="color: black;>
 <span style="margin-bottom: 5px;">Linkeding: <b>Angel Coyasos</b></span>
 </a>
 </li>
 <li>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://twitter.com/" target="_blank" style="color: black;>
 <span  style="margin-bottom: 5px; color: black;">Tiwtter: <b>Angel Coyasos</b></span>
 </a>
 </li>
 <li>
-<a href="https://github.com/Angel-Coyasos?tab=repositories" target="_blank">
+<a href="https://github.com/Angel-Coyasos?tab=repositories" target="_blank" style="color: black;>
 <span  style="margin-bottom: 5px; color: black;">Portafolio: <b>Angel Coyasos</b></span>
 </a>
 </li>
 <li>
-<a href="https://instagram.com/" target="_blank">
+<a href="https://instagram.com/" target="_blank"  style="color: black;">
 <span  style="margin-bottom: 5px; color: black;">Instagram: <b>Angel Coyasos</b></span>
 </a>
 </li>
