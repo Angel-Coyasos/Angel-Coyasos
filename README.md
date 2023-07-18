@@ -23,7 +23,7 @@
 - I like to drive.
 - I like extreme sports
 
-Take a good walk through my portfolio [my resume](https://github.com/Angel-Coyasos/portafolio-adaptable-bootstrap)
+Take a good walk through my portfolio [my portafolio](https://github.com/Angel-Coyasos/portafolio-adaptable-bootstrap)
 
 <br><br>
 
